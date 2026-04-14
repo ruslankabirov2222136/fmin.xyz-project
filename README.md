@@ -11,7 +11,7 @@
 
 - [LinkReview](LINKREVIEW.md)
 - [Code](code)
-- [Paper](paper/main.pdf)
+- [ProjectProposal](paper/main.pdf)
 - [Poster](poster/poster.pdf)
 
 ## Abstract
